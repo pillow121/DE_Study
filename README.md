@@ -15,6 +15,7 @@
 
 <h2> Command lines from Intermediate git lecture</h2>
 <h3>Branches</h3>
+<h4>
 <li> switching  ---> git switch -c branch_name</li>
 <li> checking  ---> git branch</li>
 <li> comparing  ---> git diff branch_1 branch_2</li>
@@ -22,6 +23,9 @@
 <li> delete ---> <ul>git branch -d branch_name (it will show error if you haven't merged to main)
                  </ul>
                  <ul>use 'git branch -D branch_name' to avoid error</ul>
-</li>merge ---> <ul>merge to main ---> git merge source</ul>
+</li>
+<li>merge ---> <ul>merge to main ---> git merge source</ul>
                 <ul> if you are in main, git merge 'branch_name' (merge 'branch_name' to main)</ul>
-                <ul> or if you are in another branch, git merge 'branch_name' main
+                <ul> or if you are in another branch, git merge 'branch_name' main</ul>
+</li>
+</h4>
