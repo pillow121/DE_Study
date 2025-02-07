@@ -15,7 +15,7 @@
 
 <h2> Command lines from Intermediate git lecture</h2>
 <h3>Branches</h3>
-<h4>
+
 <li> switching  ---> git switch -c branch_name</li>
 <li> checking  ---> git branch</li>
 <li> comparing  ---> git diff branch_1 branch_2</li>
@@ -28,4 +28,4 @@
                 <ul> if you are in main, git merge 'branch_name' (merge 'branch_name' to main)</ul>
                 <ul> or if you are in another branch, git merge 'branch_name' main</ul>
 </li>
-</h4>
+
