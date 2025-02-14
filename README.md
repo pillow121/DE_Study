@@ -1,4 +1,4 @@
-<h1> Notes of Data Engineering Track in Python from Data Camp</h1>
+<h1> Notes of Data Engineering Track in Python from Data Intern</h1>
 
 <h2> Command lines from git introduction lecture</h2>
 <h3> Create a new repository in your local machine</h3>
@@ -28,4 +28,3 @@
                 <ul> if you are in main, git merge 'branch_name' (merge 'branch_name' to main)</ul>
                 <ul> or if you are in another branch, git merge 'branch_name' main</ul>
 </li>
-
