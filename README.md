@@ -28,3 +28,9 @@
                 <ul> if you are in main, git merge 'branch_name' (merge 'branch_name' to main)</ul>
                 <ul> or if you are in another branch, git merge 'branch_name' main</ul>
 </li>
+<<<<<<< HEAD
+=======
+
+<h3> Testing Error</h3>
+
+> > > > > > > db774fc792f900cf4381cfa107059f5f42ef62e0
