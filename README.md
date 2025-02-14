@@ -1,4 +1,4 @@
-<h1> Notes of Data Engineering Track in Python from Data Intern Camp</h1>
+<h1> Notes of Data Engineering Track in Python from Data Intern Camp Training</h1>
 
 <h2> Command lines from git introduction lecture</h2>
 <h3> Create a new repository in your local machine</h3>
